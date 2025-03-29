@@ -130,5 +130,36 @@ img{
     background: rgb(18, 147, 212);
 }
 
+.noso{
+    display: flex;
+    background: rgb(244, 244, 244); 
+    
+}
+
+.tros{
+    display: flex;
+    flex-direction: column;
+    padding-left: 141px;
+    padding-bottom: 35px;
+    font-size: 18px;
+}
+
+.tros2{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 35px;
+    font-size: 18px;
+    background: rgb(53, 66, 74);
+    color:rgb(244, 244, 244) ;
+    margin-left: 138px;
+}
+
+
+.compu{
+    
+    width: 500px;
+    
+    
+}
 
 
